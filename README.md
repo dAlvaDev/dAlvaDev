@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**dAlvaDev/dAlvaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*HELLO WORLD!!
 
-Here are some ideas to get you started:
+Stacks:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+__under construction__
