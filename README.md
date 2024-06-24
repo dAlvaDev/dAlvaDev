@@ -5,7 +5,7 @@
 Stacks:
 
 - 🔭 I’m currently working on my portafolio
-- 🌱 I’m currently learning Java, React, Php, Python
+- 🌱 I’m currently learning Data Scientist
 - 💬 Spanish (Español) - Native.
 - 💬 English - B2.
 
